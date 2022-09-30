@@ -1,2 +1,2 @@
-# LulzMods
-A collection of updated parts, mods, and configs for Lulzbot printers. 
+# LulzBot Klipper Configs
+A collection of config files for my mostly-nonstandard Lulzbot printers.
